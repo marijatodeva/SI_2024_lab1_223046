@@ -14,5 +14,9 @@ public class SILab1Main {
             list.add(sc.next());
         }
     }
+ HEAD
     System.out.println(SILab1_1.filterOddLengthStrings(list));
+=======
+System.out.println(SILab1_2.makeBigStringFrom(list));
+>>>>>>> fa5062a (Call method makeBigStringForm in main class)
 }
