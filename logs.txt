@@ -1,0 +1,35 @@
+commit 2ebc834ac9dc4c19a408a8808d49726f42fd15a0
+Author: Marija Todeva <marijatodeva86@gmail.com>
+Date:   Fri Apr 5 14:14:39 2024 +0200
+
+    Call method makeBigStringForm in main class
+
+commit 1c9c22915558d4c99cb4eefe42ca337a16351096
+Author: Marija Todeva <marijatodeva86@gmail.com>
+Date:   Fri Apr 5 14:00:05 2024 +0200
+
+    Fixed line endings in SILab1_2.java
+
+commit 08f26fd2ef2e0f5208f40e5eb7a95ec72888378f
+Author: Marija Todeva <marijatodeva86@gmail.com>
+Date:   Fri Apr 5 14:07:36 2024 +0200
+
+    Call method filterOddLengthStrings in main class
+
+commit 3ce01be50aed13babe9030a1ab4a3a7de1c85765
+Author: Marija Todeva <marijatodeva86@gmail.com>
+Date:   Fri Apr 5 13:49:48 2024 +0200
+
+    Fix wrong condition in filterOddLengthStrings
+
+commit 7cf14b6c2e3f725515bdc2ed2ba84b9fd3bffb65
+Author: Marija Todeva <marijatodeva86@gmail.com>
+Date:   Fri Apr 5 12:49:16 2024 +0200
+
+    Add starter code
+
+commit 7e8829e77eb09529f146fd19bab071a4c374e796
+Author: Marija Todeva <marijatodeva86@gmail.com>
+Date:   Fri Apr 5 12:37:34 2024 +0200
+
+    Initial commit
